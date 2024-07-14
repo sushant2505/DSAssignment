@@ -8,7 +8,7 @@ This project contains a Jupyter notebook with data analysis and visualization ta
 1. **Clone the repository**
 
     ```sh
-    git clone <repository_url>
+    git clone [<repository_url>](https://github.com/sushant2505/DSAssignment.git)
     cd <repository_directory>
     ```
 
